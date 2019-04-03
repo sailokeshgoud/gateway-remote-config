@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFEF58DB4",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 51.08246000,
+    "ref_longitude": 13.72363230,
+    "ref_altitude": 17,
+    "contact_email": "sailokesh.tsys@gmail.com",
+    "description": "TTN Lokesh Gateway"
+  }
+}
